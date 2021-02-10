@@ -17,6 +17,6 @@ This Activity involved analysing purchase data from a mobile app.  I used the Pa
 
 Here are a couple examples of the code and assosiated tables.  the full Jupyter notebook file (titled "HerosOfPymoli”) is located above.
 
-![top_spenders](HerosOfPymoli/Resources/top_spenders.png)
-![most_popular](HerosOfPymoli/Resources/most_popular.png)
+![top_spenders](HeroesOfPymoli/Resources/top_spenders.png)
+![most_popular](HeroesOfPymoli/Resources/most_popular.png)
 
